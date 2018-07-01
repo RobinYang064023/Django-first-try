@@ -16,6 +16,15 @@
   
 =============================================================
 
+Demo：
+  01_展示資料庫
+  https://drive.google.com/open?id=1SDVWOlbnk_vB1RnE_KrTPCTr_q1b4SMO
+  02_簡易特徵檢測
+  https://drive.google.com/open?id=1AjuRq_o3VXeszJvYx_eV8QRPAG3dlyQT
+  03_特徵資料展示
+  https://drive.google.com/open?id=1kXVh3qSSJeo_guKpnZqzUi5hp3aF7HGw
+
+=============================================================
 未完成：
   1. import data to google fusion table
   2. extract feature data for updating google fusion table 
