@@ -32,6 +32,7 @@ Demo：
   
 
 =============================================================
+
 未完成：
   1. import data to google fusion table
   2. extract feature data for updating google fusion table 
